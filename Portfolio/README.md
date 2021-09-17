@@ -25,10 +25,12 @@ A ser desenolvido
 Para a criação do site, usarei o Visual Studio Code, editando as imagens a ser utilizadas no  GIMP, utilizando-se do HTML, CSS e JavaScript.
 
 
-<center>Desenvolver a atividade eu irei!</center>
-
 <div align="center">
 <img src="https://user-images.githubusercontent.com/61124810/133815941-6bf24ddb-ac77-4037-add5-d10c398dbcd5.png" width="250px" />
+</div>
+
+<div align="center">
+  <h2>Desenvolver a atividade eu irei!</h2>
 </div>
 
 
