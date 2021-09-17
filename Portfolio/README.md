@@ -22,7 +22,7 @@ Dentro do tema escolhidos a proposta é utilizar-se dos personagens e demais ele
 A ser desenolvido
 
 ### Ferramentas e Linguagens
-Para a criação do site, usarei o Visual Studio Code, editando as imagens a ser utilizadas no  GIMP, utilizando-se do HTML, CSS e JavaScript.
+O desenvolvimento do site será em  HTML, CSS e JavaScript, utilizando o Visual Studio Code e editando as imagens utilizadas no GIMP.
 
 
 <div align="center">
