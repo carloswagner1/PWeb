@@ -14,9 +14,10 @@ Proposta: Criação de um site (portfólio do aluno) com o design com o tema bas
 
 Dentro do tema escolhidos a proposta é utilizar-se dos personagens e demais elementos que compõe a saga dos filmes em questão, usando a criatividade para desenvolver um portfólio para fins acadêmicos.
 
-### Paleta de Cores
 
 ![paleta de cores](https://user-images.githubusercontent.com/61124810/133810194-1ed6b5d6-b070-4813-a7e8-e5c6a15d8d8b.png)
+
+### Paleta de Cores
 
 
 
