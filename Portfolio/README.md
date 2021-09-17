@@ -27,9 +27,9 @@ Para a criação do site, usarei o Visual Studio Code, editando as imagens a ser
 
 <center>Desenvolver a atividade eu irei!</center>
 
-<picture align="center">
+<div align="center">
 <img src="https://user-images.githubusercontent.com/61124810/133815941-6bf24ddb-ac77-4037-add5-d10c398dbcd5.png" width="250px" />
-</picture>
+</div>
 
 
 
