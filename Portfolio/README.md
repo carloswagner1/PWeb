@@ -16,7 +16,7 @@ Dentro do tema escolhidos a proposta é utilizar-se dos personagens e demais ele
 
 ### Paleta de Cores
 
-![paleta de cores](https://user-images.githubusercontent.com/61124810/133807996-400a259a-6d0a-4758-a376-db885753076a.png)
+![paleta de cores](https://user-images.githubusercontent.com/61124810/133810194-1ed6b5d6-b070-4813-a7e8-e5c6a15d8d8b.png)
 
 
 
