@@ -20,6 +20,6 @@ b. O computador faz uma escolha(método random–ponto flutuante aleatórios [0,
 
 c. A partir das duas escolhas determinar o vencedor
 
-
-
-![](/home/carlos/OneDrive/ADS/Programação WEB/Atividades/Atividade7/JokenpoArena.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/61124810/135759151-540591e5-fe7e-44bd-b36f-288da0444e37.png"/>
+</div>
