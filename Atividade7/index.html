@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="author" content="Carlos Wagner">
+  <meta name="description" content="Atividade 7 - PWEB">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="style.css">
+  <link rel="shortcut icon" href="image/favicon.ico" type="image/x-icon">
+  <title>Jokenpo</title>
+</head>
+<body>
+
+  <header>
+    <h1>Jokenpo Arena</h1>
+  </header>
+
+  <div class="score-board">
+    <div id="player-label" class="badge">player</div>
+    <div id="robot-label"class="badge">robot</div>
+
+    <span id="player-score">0</span>:<span id="robot-score">0</span>
+  </div>
+
+  <div class="result">
+    <p>Que comecem os jogos!. <br> 🎲 🎮 🧩 </p>
+    
+  </div>
+
+  <div class="choices">
+    <div class="choice" id="r">
+      <img src="image/pedra.png" alt="Pedra">
+    </div>
+    <div class="choice" id="p">
+      <img src="image/papel.png" alt="Papel">
+    </div>
+    <div class="choice" id="s">
+      <img src="image/tesoura.png" alt="Tesoura">
+    </div>
+  </div>
+
+  <p id="action-message">Escolha a sua jogada!</p>
+  <script src="jokenpo.js" charset="utf-8"></script>
+
+  <footer class="footer-bottom">
+    <p>
+        <span>Designed by Carlos Wagner </span>
+        <a href="https://github.com/carloswagner1/PWeb/tree/main/Atividade7" target="_blank" alt="Repositório do projeto"><img src="image/github.ico" alt=""></a>
+    </p>
+  </footer>
+
+</body>
+</html>
