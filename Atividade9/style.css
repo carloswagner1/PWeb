@@ -1,0 +1,43 @@
+
+body{
+    background-image: url(bkg.jpg); 
+    color: white;
+    font-family: "Source Sans Pro", "Helvetica", "Arial", sans-serif;
+    font-size: 2em;
+    font-weight: 500;
+    line-height: 1.4;
+}
+
+header{
+    text-align: center;
+    width: 100%;
+    min-height: 15vh;
+    font-size: 1em;
+}
+
+main{
+    text-align: center;
+    width: 100%;
+    min-height: 15vh;
+    font-size: 0.7em;
+    padding-top: 20px;    
+}
+
+main>button{
+    margin-top: 20px;
+    font-size: 0.8em;    
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: solid;     
+}
+
+main>input{
+    height: 20px
+}
+
+
+section>p{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 1em;
+    text-shadow: 10ch
+}
