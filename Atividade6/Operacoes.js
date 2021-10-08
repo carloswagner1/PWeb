@@ -9,3 +9,5 @@ alert("Subtração = " + (parseFloat(num1) - parseFloat(num2)));
 alert("Produto = " + (parseFloat(num1) * parseFloat(num2)));
 alert("Divisão = " + (parseFloat(num1) / parseFloat(num2)));
 alert("Resto = " + (parseFloat(num1) % parseFloat(num2)));
+
+//somente código

@@ -12,3 +12,9 @@ Fazer uma aplicação utilizando JavaScript que receba os dados (idade, sexo e o
 - a quantidade de pessoas que responderam péssimo;
 - a porcentagem de pessoas que responderam ótimo e bom;
 - o número de mulheres e homens que responderam ao questionário.
+
+Screenshot
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/61124810/136491020-b95b600f-ea19-493d-a741-8a45c7351940.png"/>
+</div>
