@@ -31,7 +31,7 @@ function addDados(){
             limpar()
             cont++            
             document.getElementById('contador').
-            innerText = 'Pessoas entrevistadas ' + cont + '/4'          
+            innerText = 'Pessoas entrevistadas ' + cont + '/45'          
         }
 
     }else{
