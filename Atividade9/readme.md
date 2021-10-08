@@ -1,0 +1,8 @@
+# Atividade 9
+
+## Criar duas funções:
+
+Uma que receba três números comoparâmetros e retorne o maior deles.
+Usar um arquivo js externo.
+
+Outra que receba três números e coloque em ordem crescente.
