@@ -16,5 +16,5 @@ Fazer uma aplicação utilizando JavaScript que receba os dados (idade, sexo e o
 Screenshot
 
 <div align="center">
-https://user-images.githubusercontent.com/61124810/136491020-b95b600f-ea19-493d-a741-8a45c7351940.png
+<img src="https://user-images.githubusercontent.com/61124810/136491020-b95b600f-ea19-493d-a741-8a45c7351940.png/>
 </div>
