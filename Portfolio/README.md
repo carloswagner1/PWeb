@@ -19,7 +19,7 @@ Dentro do tema escolhido a proposta é utilizar-se dos personagens e demais elem
 ![paleta de cores](https://user-images.githubusercontent.com/61124810/133810194-1ed6b5d6-b070-4813-a7e8-e5c6a15d8d8b.png)
 
 ### Protótipo
-A ser desenvolvido
+A ser desenvolvido no Figma
 
 ### Ferramentas e Linguagens
 O desenvolvimento do site será em  HTML, CSS e JavaScript, utilizando o Visual Studio Code e editando as imagens utilizadas no GIMP.
