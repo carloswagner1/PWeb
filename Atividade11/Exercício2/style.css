@@ -8,9 +8,9 @@
 body{
     background-image: url(images/wallpaper.jpg); 
     background-size: 100%;
-    color: rgb(255, 255, 255);
+    color: rgb(8, 2, 2);
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    font-size: 1.4em;
+    font-size: 1.2em;
     font-weight: 500;
     line-height: 1.2;
 }
@@ -19,29 +19,21 @@ header{
     text-align: center;
     width: 100%;
     max-height: 7vh;
-    font-size: 0.8em;
-    color: orange;
+    font-size: 1.2em;
+    color: rgb(255, 0, 0);
 }
 
 main{
-    text-align: center;
+    text-align: justify5;
     width: 100%;
     min-height: 8vh;
-    font-size: 0.75em;
+    font-size: 1.2em;
     padding-top: 5px;    
 }
 
-main>p>button{
-    margin-top: 10px;
-    font-size: 1.1em;    
-
-    text-decoration: solid;     
+main>h2{
+    text-align: center;
 }
-
-main>input{
-    height: 20px
-}
-
 section{
     text-align: center;
     text-decoration-style: double;   
@@ -50,10 +42,31 @@ section{
     width: 100%;
     min-height: 15vh;
 
-    color: white;
+    color: rgb(1, 25, 245);
 }
 section>div>h2{
     color: crimson;
     text-transform: uppercase;
 }
 
+.footer-bottom {
+    position: absolute;
+    width: 100%;
+    margin-bottom: 10;
+    bottom: -100px;
+    display: flex;
+
+    color: white;
+    justify-content: left;
+    align-items: center;
+    text-align: left;
+    font-size: 1rem;
+    margin-top: 10em;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  
+  .footer-bottom img {
+    position: sticky;
+    object-position: right;
+
+  }
