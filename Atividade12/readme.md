@@ -6,5 +6,7 @@ Encontre na rede 3 figuras: janela aberta, janela fechada e janela quebrada. Cri
 
 ## Screenshot
 
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/61124810/139559752-0aa4ed67-7b9f-4a86-89b0-6e856be2f299.png"/>
+</div>
 
