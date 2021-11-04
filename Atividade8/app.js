@@ -22,8 +22,13 @@ var idade,
 function addDados(){
 
     if(cont < 45){
-        if(document.getElementById('feminino').checked == false && document.getElementById('masculino').checked == false) {
-            alert("Selecione todas as opções")            
+        if(document.getElementById('idade').value == ''){
+            alert("O campo idade deve ser preenchido")
+        }else if(document.getElementById('feminino').checked == false && document.getElementById('masculino').checked == false) {
+            alert("Selecione o sexo do entrevistado")            
+        }else if((document.getElementById('otimo').checked == false) && (document.getElementById('bom') == false) && (document.getElementById('regular') == false) && (document.getElementById('pessimo') == false)) {
+            alert("Indique a sua avaliação sobre o filme.")
+           
         }else{
             dadosIdade()
             dadosSexo()
