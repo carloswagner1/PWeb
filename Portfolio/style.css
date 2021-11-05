@@ -539,6 +539,11 @@ p.speech:after {
   letter-spacing: 2px;
 }
 
+.form-control{
+  width: 350px;
+  font-size: 1em;
+}
+
 
 .follow {
   max-width: 100%;
