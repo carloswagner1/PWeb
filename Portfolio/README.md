@@ -18,19 +18,25 @@ Dentro do tema escolhido a proposta é utilizar-se dos personagens e demais elem
 ### Paleta de Cores
 ![paleta de cores](https://user-images.githubusercontent.com/61124810/133810194-1ed6b5d6-b070-4813-a7e8-e5c6a15d8d8b.png)
 
-### Protótipo
-A ser desenvolvido no Figma
-
 ### Ferramentas e Linguagens
 O desenvolvimento do site será em  HTML, CSS e JavaScript, utilizando o Visual Studio Code e editando as imagens utilizadas no GIMP.
+
+
+
+### Link do Portfólio
+
+https://carloswagner.netlify.app/
+
+
+
+
 
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/61124810/133815941-6bf24ddb-ac77-4037-add5-d10c398dbcd5.png" width="250px" />
 </div>
-
 <div align="center">
-  <h2>Desenvolver a atividade eu irei!</h2>
+  <h2>Visitar o link você deve</h2>
 </div>
 
 
